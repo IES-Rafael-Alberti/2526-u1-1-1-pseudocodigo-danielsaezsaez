@@ -1,0 +1,14 @@
+Inicio
+ Escribe "Introduzca un número"
+   Si x es una letra entonces      
+       Escribe "Introduzca un número, no letras."
+   Si x es un número decimal entonces
+       Escribe "Los números decimales no son pares o impares, introduzca un número válido"
+   Si x es una cadena de caracteres entonces
+       Escribe "Introduzca solo números, no letras y números."
+ par = x / 2
+   Si resto es "0" entonces
+      Escribe "Tu número es par"
+   Si resto no es "0" entonces
+      Escribe "Tu número es impar"
+Fin

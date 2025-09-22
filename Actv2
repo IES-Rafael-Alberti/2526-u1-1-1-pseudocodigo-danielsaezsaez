@@ -1,0 +1,9 @@
+Inicio
+  Escribe "Introduzca el número a su elección: "
+  Iniciar "contador" desde "1"
+  Crear "multiplicación"
+  Escribe "+ contador + * + x + = + resultado + "
+  Si "multiplicación" entonces "contador"+1
+  Si "contador" <10 entonces repite "multiplicación"
+  Si "contador" <=10 entonces para 
+Fin

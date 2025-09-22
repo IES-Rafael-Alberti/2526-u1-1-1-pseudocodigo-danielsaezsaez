@@ -1,0 +1,17 @@
+Inicio
+  Escribe "Introduzca un número"
+   Si x es una letra entonces      
+       Escribe "Introduzca un número, no letras."
+   Si x es un número decimal entonces
+       Escribe "Introduzca un número entero, no decimal"
+   Si x es una cadena de caracteres entonces
+       Escribe "Introduzca un número, no números y letras."
+  Inicio de "contador" en 2
+  Si "división" entonces "contador" +1
+  Si x / "contador" y su % es 0 y "contador" == "x" entonces
+       Escribe "Tu número es primo"
+    Sino vuelve a "división"
+  Si x  / "contador" y su % es 0 y "contador" /= "x" entonces
+       Escribe "Tu número no es primo"
+
+Fin
